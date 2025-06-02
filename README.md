@@ -1,4 +1,4 @@
-# 🌟 Likhitha Ketana - Personal Portfolio 🌟
+# 🌟 OasisInfoByte_Task2_PortfolioPage - Likhitha Ketana - Personal Portfolio 🌟
 
 Welcome to the personal portfolio of **Likhitha Ketana**, a passionate and multi-talented individual excelling as a **Web Developer**, **UI/UX Designer**, and **Photographer**! 💻✨ This portfolio is a curated showcase of her skills, academic journey, achievements, and a direct way to connect with her. It's built with precision and a keen eye for detail, reflecting her dedication to every project she undertakes. 💖
 
